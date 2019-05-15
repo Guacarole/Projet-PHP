@@ -1,2 +1,3 @@
 # Projet-PHP
-Clone de Twitter
+Carole GRANGER
+Claire DUGUEY

@@ -23,6 +23,6 @@ décidé de réalisé le site tous les 4 pour essayer d'avancer au maximum, dans
 restait. Nous avons utilisé quelques vidéos sur Youtube pour comprendre Laravel et pour pouvoir l'utiliser 
 au mieux.
 
-On n'a pas réussi à mettre notre site en ligne (nous avons essayé sur deux sites).
+On n'a pas réussi à mettre notre site en ligne (nous avons essayé sur deux sites : 000webhost et creapro).
 
 Merci de votre compréhension.

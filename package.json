@@ -21,6 +21,6 @@
     },
     "dependencies": {
         "vue-axios": "^2.1.4",
-        "yarn": "^1.16.0"
+        "yarn": "^1.22.0"
     }
 }
